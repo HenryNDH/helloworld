@@ -6,7 +6,7 @@
 *
 * Name: Nguyen Duy Hoang Student ID: 108397217 Date: Sep 09,2022
 *
-* Online (Cyclic) URL: _______________________________________________________
+* Online (Cyclic) URL: https://uptight-cape-pig.cyclic.app
 *
 ********************************************************************************/ 
 
